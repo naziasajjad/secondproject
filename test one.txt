@@ -1,3 +1,4 @@
 tested repository
 some changes in this file
 online changes
+change through smartgit
