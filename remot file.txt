@@ -1,2 +1,3 @@
 this is a remote file for smartgit test
 we can change in our file on stay github
+now this line has written in dev branch
